@@ -3,11 +3,9 @@ title: How I ended up in the Philippines
 description: This is my first post
 date: 2023-08-01
 ---
+<h1 class="text-center">{{ title }}</h1>
 
-# {{title}}
-
-<!-- {{page.date | dateStuff}} -->
-<div class="ml-8">
+<div class="ml-10">
 I am excited to be entering the world of blogging. 
 
 I am a United States Citizen living in the Philippines. How did I get here? Why am I here? Those are the question I will answer in the next few sentences or paragraphs. We will see how it turns out.
