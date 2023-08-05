@@ -7,7 +7,7 @@ date: 2023-08-01
 # {{title}}
 
 <!-- {{page.date | dateStuff}} -->
-
+<div class="ml-8">
 I am excited to be entering the world of blogging. 
 
 I am a United States Citizen living in the Philippines. How did I get here? Why am I here? Those are the question I will answer in the next few sentences or paragraphs. We will see how it turns out.
@@ -24,3 +24,4 @@ The interesting part of being here it was the beginning of COVID 19 scare. So af
 
 Well, that's enough for my first post. In my send post I will talk about my life in the Philippines, how i am embracing life here, blending our cultures, Parenting and family life, reflections and growth; So make sure to come again and I hope you enjoyed this post.
 
+</div>

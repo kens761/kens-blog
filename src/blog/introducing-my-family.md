@@ -5,7 +5,7 @@ date: 2023-08-04
 ---
 
 # {{ title }}
-  
+<div class="ml-8">  
 I will start off by introducing my Philippine Family,
 and then I will continue with my life in the Philippines.
 
@@ -23,3 +23,4 @@ When Tintin were younger I had a similar problem. But she has matured nicely and
 
 Next time I'll talk about adapting to the Philippine culture.
 
+</div>
