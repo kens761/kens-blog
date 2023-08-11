@@ -13,23 +13,24 @@ I find this very frustrating. I haven't adapted to this very well. For instance,
 
 So, how well have I adapted; on a scale of 1-10, I would say about a 2. 
 
-This next item, is not part of the culture per se. The Philippines is a poor country and I live in the province. Most Filipinos drive motorcycles. Because cars tend to be expensive. The ony ones that own cars are foreigners or rich Filipinos. Many of the people that drive motorcycles, especially in the province, do not have driver licence. To their way of thinking, I guess, they know how to drive so why bother with the formalities of getting a license. 
+This next item, is not part of the culture per se. The Philippines is a poor country and I live in the province. Most Filipinos drive motorcycles. Because cars tend to be expensive. The only ones that own cars are foreigners or rich Filipinos. Many of the people that drive motorcycles, especially in the province, do not have driver license. To their way of thinking, I guess, they know how to drive so why bother with the formalities of getting a license. 
 
 But they don't really know how to drive. They seem to be unfamiliar with the rules of the road. At intersections, they don't stop and don't look. They just keep going. I constantly need to be on the lookout for such drivers so I don't hit them.
 
-Enough complaining... There is many good things about living in the Philippines. The country is beautiful. It's beaches are great... and no matter where you go in the philippines you are near the Ocean. The country itself consists of more then 1700 islands.
+Enough complaining... There is many good things about living in the Philippines. The country is beautiful. It's beaches are great... and no matter where you go in the Philippines you are near the Ocean. The country itself consists of more then 1700 islands.
 
-You can imagine consisting of that many islands the country has over 150 dialects. There are two languages recognize as official, one is Tagalog, which most everyone speaks, the other is English which almost everyone understands, but they don't speak it because they are afraid of making a grammtical mistake.
+You can imagine consisting of that many islands the country has over 150 dialects. There are two languages recognize as official, one is Tagalog, which most everyone speaks, the other is English which almost everyone understands, but they don't speak it because they are afraid of making a grammatical mistake.
 
-The people are friendly and outgoing. You can't ealk down the street without at least 1/2 dozrn filipinos saying Good Morning to you.
+The people are friendly and outgoing. You can't walk down the street without at least 1/2 dozen Filipinos saying Good Morning to you.
 
 It occurred to me, after reviewing this blog, that you may think I don't like it here. Nothing could be further from the truth. The people are friendly and welcoming the country is beautiful, the weather, although a bit hot at times, is generally agreeable.
 
-I have a beautiful wife who loves me, teo beautiful daughters who love me. And my Pension and Social Security goes further here.
+I have a beautiful wife who loves me, two beautiful daughters who love me. And my Pension and Social Security goes further here.
+
 
 Last time I checked $1.00 USD is equal to about 54 Pesos. You can't go wrong with that. It's a great place to retire.
 
-I highly recommend it to anyone that is thinking of moving to an inexpensive plac to retire, the Philippines are the place to be.
+I highly recommend it to anyone that is thinking of moving to an inexpensive place to retire, the Philippines are the place to be.
 
 
 
