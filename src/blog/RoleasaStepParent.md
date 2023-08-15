@@ -9,7 +9,7 @@ Today I will talk about my role as step-parent. When I first came to the Philipp
 
 Both girls are extremely stubborn, what they didn't count on is I could be more stubborn than they. If you look up the word "stubborn" in an English dictionary, you would see a picture of me.
 
-They each displayed their stubbornness n different ways. Tintin would try to actually fight me. She'd hit me to no effect. She'd used to fight her mother and she used to be able to hurt her mother. So, I think she was surprised and a little frustrated that her blows had no effect on me.
+They each displayed their stubbornness in different ways. Tintin would try to actually fight me. She'd hit me to no effect. She'd used to fight her mother and she used to be able to hurt her mother. So, I think she was surprised and a little frustrated that her blows had no effect on me.
 
 I think part of what she felt was the feeling of abandonment she felt when her father left her and her mother. He enrolled Tintin in a private school and then left, leaving her with the bill. I ended up paying for her schooling in the private school.
 
@@ -23,6 +23,6 @@ She's smart. She's been on honors since the 6th. grade. So academically she will
 
 My hope for her as she grows in maturity she will become like her older sister and she will learn to bridle her tongue. Otherwise, I fear it will get get her into trouble.
 
-In closing, I'd like to express my thankfulness to God for bringing me to the Philippines and my everlasting gratefullness for giving me such a beautiful and loving family. It is my reward, I think, for living a life full of faith.
+In closing, I'd like to express my thankfulness to God for bringing me to the Philippines and my everlasting gratefulness for giving me such a beautiful and loving family. It is my reward, I think, for living a life full of faith.
 
 </div>
