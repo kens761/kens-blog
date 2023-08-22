@@ -1,5 +1,5 @@
 ---
-title: Culture differences
+title: Cultural differences
 description: This is my Third post
 date: 2023-08-10
 ---
