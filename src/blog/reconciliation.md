@@ -4,7 +4,8 @@ description: Reconciliation, a devotional
 date: 2023-08-21
 tags: ["devotions"]
 ---
-
+<h1 class="text-center">{{ title }}</h1>
+<div class="ml-10">
 Back when Eve took a bite of the forbidden fruit God already had a plan for us to become reconciled with Him through Jesus Christ, His son. We even see a glimpse of His plan back in Genesis 3.
 
 Gen 3:8-15
@@ -67,3 +68,4 @@ Act 14:22
 In conclusion:
 
 Those who have been reconciled will persevere in faith and obedience because, in addition to being declared righteous, they are actually made new creatures (2 Cor 5:17) with a new disposition that loves God, hates sin, desires obedience, and is energized by the indwelling Holy Spirit (John 8:30-32; 1 John 2:19). Rather than defect from the gospel they heard, true believers true believers will remain solid on Christ who is the only foundation (1 Cor 3:11), and faithful by the enabling grace of God (Php 1:6; Php 2:11-13). 
+</div>
