@@ -1,0 +1,81 @@
+/* Body Setup */
+body {
+	background-color: lightblue;
+}
+
+/* h1 setup */
+h1 {
+	text-align: center;
+}
+
+/* Navigation setup */
+nav li {
+	float: left;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+}
+
+nav li a {
+	display: block;
+	color: white;
+	padding: 14px 16px;
+}
+
+/* various margin setup */
+.ml-10 {
+    margin-left: 10px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.ml-8 {
+    margin-left: 8px;
+}
+
+.mr-8 {
+    margin-right: 8px;
+}
+
+.mt-4 {
+    margin-top: 4px;
+}
+
+.mt-8 {
+    margin-top: 8px;
+}
+/* padding */
+.pt-50 {
+	padding-top: 50px;
+}
+/* various text setup */
+.text-center {
+    text-align: center;
+}
+
+.text-white {
+    color: white;
+}
+
+/* various background Color */
+.bg-black {
+    background-color: black;
+}
+
+/* setup Flex Container */
+.flex-container {
+    display: flex;
+	flex-direction: row;
+}
+
+.flex-item {
+	justify-content: center;
+	align-content: center;
+}

@@ -3,8 +3,7 @@ title: About My Philippine Family
 description: This is my Second post
 date: 2023-08-04
 ---
-<h1 class="text-center">{{ title }}</h1>
-<div class="ml-10">  
+<div class="ml-10 mr-10">  
 I will start off by introducing my Philippine Family,
 and then I will continue with my life in the Philippines.
 

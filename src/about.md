@@ -1,15 +1,16 @@
 ---
-layout: base
+layout: layouts/home.njk
 title: About Me
 tags: page
-key: About me
-order: 2
+eleventyNavigation:
+    key: About me
+    order: 2
 ---
-<h1 class="text-center text-xl">About Me</h1>
+<h1>About Me</h1>
 <hr>
-<div class="Prose ml-10 mr-10">
-    As I said on the home page, my name is Ken Stevens. I identify, that is a PC term, if I ever heard one. These days people, even if they have the genitalia of a male, can identify as a female, or vice versa. This truly amazes me! How can people deny who or what they are? It just boggles my mind. Anyway I digress, I have a habit of doing that. Now, to get back to the topic at hand. 
-    
+<div class="ml-10 mr-10">
+    As I said on the home page, my name is Ken Stevens. I identify, that is a PC term, if I ever heard one. These days people, even if they have the genitalia of a male, can identify as a female, or vice versa. This truly amazes me! How can people deny who or what they are? It just boggles my mind. Anyway I digress, I have a habit of doing that. Now, to get back to the topic at hand.
+
     I identify as a child of God. I was saved at a very young age. Someone gave me a copy of The King James translation of the bible when I was only 7 or 8 years old. 
    
     I have always been a very voracious reader. I was probably the only 7 or 8 year old that could name all the ingredients in all the popular cereals because I would sit there while I ate my breakfast and read the backs of the cereal boxes.

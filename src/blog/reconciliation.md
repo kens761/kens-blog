@@ -4,8 +4,7 @@ description: Reconciliation, a devotional
 date: 2023-08-21
 tags: ["devotions"]
 ---
-<h1 class="text-center">{{ title }}</h1>
-<div class="ml-10">
+<div class="ml-10 mr-10">
 Back when Eve took a bite of the forbidden fruit God already had a plan for us to become reconciled with Him through Jesus Christ, His son. We even see a glimpse of His plan back in Genesis 3.
 
 Gen 3:8-15

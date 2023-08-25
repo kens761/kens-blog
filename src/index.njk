@@ -1,16 +1,19 @@
 ---
-layout: base.njk
+layout: layouts/home.njk
 title: Home
 tags: page
-key: Home
-order: 1
+eleventyNavigation:
+    key: Home
+    order: 1
 ---
-<div class="flex items-center">
-<img class="mr-6" src="/assets/images/KennethStevens.jpg" alt="Picture of me" width=300px>
-<span class="mr=8">
+<div class="flex-container">
+<div>
+<img src="/img/KennethStevens.jpg" alt="Picture of me" width=300px>
+</div>
+<div class="pt-50 ml-10 mt-8">
 This is me.  My name is Ken Stevens.
 This is where I will post my blog, devotions,
 and eventually I will put my portfolio about things that 
-I've done and things I am working on. Read <a href="/about">About me</a> page.
-</span>
+I've done and things I am working on. Read <a href="/about/">About me</a> page.
+</div>
 </div>

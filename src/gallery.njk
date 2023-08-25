@@ -1,21 +1,17 @@
 ---
-layout: base 
-title: Picture Gallery
+layout: layouts/home.njk 
+title: Photo Gallery
 tags: page
-key: Gallery
-order: 5
+eleventyNavigation:
+    key: Gallery
+    order: 6
 --- 
-<h1 class="text-center text-3xl">{{ title }}</h1>
+<h1>{{ title }}</h1>
 <hr>
-<div class="mt-12 grid grid-cols-3 gap-8">
-<img src="/assets/images/MyWifeandI.jpg" alt="y Wife and I">
-<img src="/assets/images/The Girls and I.jpg" alt="Girls and I">
+<div class="flex-container">
+<div>
+<img src="/img/MyWifeandI.jpg" alt="My Wife and I" width="300px">
 </div>
-<div class="ml-10 grid grid-cols-3 gap-8">
-    <scan>me------Jenny</scan>
-    <scan>Ashley---me---Tintin</scan>
-</div>
-
-
-
+<div>
+<img src="/img/The Girls and I.jpg" alt="Girls and I" width="300px">
 </div>

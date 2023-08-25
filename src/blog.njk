@@ -1,18 +1,28 @@
 ---
-layout: base
-title: Blog
-description: This is the blog home
-tags: page
-order: 3
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Blog
+  order: 3
+numberOfLatestPostsToShow: 4
 ---
+{% set postsCount = collections.posts | length %}
+{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
 
-<h1 class="text-4xl font-bold mb-8">Blog Home</h1>
+{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslistCounter = postsCount %}
+{% include "postslist.njk" %}
 
-<ul class='space-y-4'>
-    {% for post in collections.post | reverse %}
-        <li class='shadow-lg p-4 ' >
-            <a class="text-lg block hover:text-sky-400 font-semibold text-gray-700" href="{{ post.url }}">{{ post.data.title }}</a>
-            <small class="text-sm text-gray-500">{{post.date | postDate}}</small>
-        </li>
-    {% endfor %}
+{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+{% if morePosts > 0 %}
+<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/archive/">the archive</a>.</p>
+{% endif %}
+
+{# List every content page in the project #}
+{#
+<ul>
+	{%- for entry in collections.all %}
+	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
+	{%- endfor %}
 </ul>
+#}
