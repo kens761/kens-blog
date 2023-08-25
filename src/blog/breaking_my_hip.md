@@ -1,15 +1,16 @@
---
+---
 title: My journey of breaking a hip
 description: My hip breaking journey
 date: 2023-08-25
 ---
 <div class="ml-10 me-10">
-# Introduction
+<h1>Introduction</h1>
+
 Life can take unexpected turns, and sometimes those turns come with challenges we never anticipated. In my case, a simple misstep led to a life-altering experience: breaking my hip. This blog post chronicles my journey from the moment of the accident to the subsequent hip replacement surgery and the recovery process that followed.
 
-## The Accident
+<h2>The Accident</h2>
 
-We had spent the majority of the day celebrating my  wife's 5_ birthday; We had a great time, In the Philippines Birthdays are a big deal. When you get to be my age, it's just another day to me.
+We had spent the majority of the day celebrating my  wife's 52nd birthday; We had a great time, In the Philippines Birthdays are a big deal. When you get to be my age, it's just another day to me.
 
  That evening we were relaxing when our youngest decided to talk back to her mother. Of course, she was speaking in Tagalog. You might ask, How could you tell? I can always tell by her tone of voice. In any case, I got up to swat her, I was wearing only socks on my feet and her floor was very slippery. So, I fell on my backside with the majority of my weight landing on my nether region.
 
@@ -26,11 +27,11 @@ Well, the ambulance could not come to pick me up that night so it required an ov
 Before I came to the hospital I got rid of my medical from the US including medicare. Which was a mistake now because this hospital actually took it. But I was sure no one outside the US would take medicare.
 
 
-## At the hospital
+<h2> At the hospital</h2>
 
 They X-rayed my entire body, I guess to make sure nothing else was broken. I was in the hospital from  March 16th to April 13th. One thing I found troubling is the hospital wouldn't let me leave until my bill was paid in full. Another thing that would not happen in America. They basically held me prisoner until we could pay the bill. Through the generosity of friends and family I managed to pay the bill. 
 
-## Recovery
+<h2>Recovery</h2>
 
 The recovery journey has not been without its challenges. There were moments of frustration when progress seemed slow, and setbacks tested my resolve. However, with the unwavering support of my family and friends, I pushed through. Every step, no matter how small was a step towards reclaiming my Independence.
 
