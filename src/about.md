@@ -6,9 +6,9 @@ eleventyNavigation:
     key: About me
     order: 2
 ---
-<h1>About Me</h1>
+<h1 class="center">About Me</h1>
 <hr>
-<div class="ml-10 mr-10">
+<div class="text-container">
     As I said on the home page, my name is Ken Stevens. I identify, that is a PC term, if I ever heard one. These days people, even if they have the genitalia of a male, can identify as a female, or vice versa. This truly amazes me! How can people deny who or what they are? It just boggles my mind. Anyway I digress, I have a habit of doing that. Now, to get back to the topic at hand.
 
     I identify as a child of God. I was saved at a very young age. Someone gave me a copy of The King James translation of the bible when I was only 7 or 8 years old. 

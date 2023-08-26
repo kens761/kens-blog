@@ -3,7 +3,7 @@ title: Role as a Step Parent
 description: Step Parent
 date: 2023-08-15
 ---
-<div class="ml-10 mr-10">
+<div class="text-container">
 Today I will talk about my role as step-parent. When I first came to the Philippines my wife expressed interest in me helping her discipline the girls. I really wasn't comfortable with that task, but because my wife expected it of me, I took it on anyway.
 
 Both girls are extremely stubborn, what they didn't count on is I could be more stubborn than they. If you look up the word "stubborn" in an English dictionary, you would see a picture of me.

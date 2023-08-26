@@ -3,7 +3,7 @@ title: My journey of breaking a hip
 description: My hip breaking journey
 date: 2023-08-25
 ---
-<div class="ml-10 me-10">
+<div class="text-container">
 <h1>Introduction</h1>
 
 Life can take unexpected turns, and sometimes those turns come with challenges we never anticipated. In my case, a simple misstep led to a life-altering experience: breaking my hip. This blog post chronicles my journey from the moment of the accident to the subsequent hip replacement surgery and the recovery process that followed.
