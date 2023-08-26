@@ -66,8 +66,10 @@ nav li a {
 }
 
 .text-container {
+
 	margin-left: 15px;
 	max-width: 65ch;
+	margin-inline: auto;
 }
 
 /* various background Color */
