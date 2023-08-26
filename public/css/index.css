@@ -66,8 +66,6 @@ nav li a {
 }
 
 .text-container {
-
-	margin-left: 15px;
 	max-width: 65ch;
 	margin-inline: auto;
 }
@@ -80,10 +78,9 @@ nav li a {
 /* setup Flex Container */
 .flex-container {
     display: flex;
-	flex-direction: row;
+    flex-direction: row;
 }
 
 .flex-item {
-	justify-content: center;
-	align-content: center;
+    text-align: center;
 }
