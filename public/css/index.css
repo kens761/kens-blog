@@ -59,6 +59,7 @@ nav li a {
 /* various text setup */
 .text-center {
     text-align: center;
+	list-style-type: none;
 }
 
 .text-white {
